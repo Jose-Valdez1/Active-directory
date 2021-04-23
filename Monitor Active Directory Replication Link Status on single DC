@@ -1,0 +1,1 @@
+REPADMIN /SHOWREPL * > C:\TEMP\"Monitor-AD-Replication_$(Get-Date -f '%h%m_ddMMyy')".txt
