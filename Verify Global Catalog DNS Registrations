@@ -1,0 +1,2 @@
+$GCs = Get-ADForest
+$GCs.GlobalCatalogs > C:\TEMP\"Verify-GC-DNS_$(Get-Date -f '%h%m_ddMMyy')".txt
